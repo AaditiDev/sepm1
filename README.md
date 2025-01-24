@@ -1,6 +1,3 @@
-hello
-welcome
-
+Hello!!
 
 how are you?
-hey
